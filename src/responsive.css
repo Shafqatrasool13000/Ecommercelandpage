@@ -1,0 +1,31 @@
+@media only screen and (max-width:998){
+   
+   header{
+    width: 415vh;
+   }
+    .mainImage{
+        margin: 20px 15vh 0px auto;
+        width: 80vw;
+        overflow: hidden;
+        margin: 12px 0px 0px 63vh;
+        
+    }
+    nav{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-right: 85vw;
+    
+    }
+    .searchBar{
+        
+        margin: 10px 0px;
+    }
+    .searchBar input{
+        
+        height: 5vh;
+        width: 15vw;
+        border-radius: 5px;
+        padding: 0 12px;
+    }
+}
